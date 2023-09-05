@@ -38,9 +38,9 @@ I am Electronics and Communication undergraduate student at Ballari Institute of
  -->
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-|[![Nagaraj github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NAGARAJ08&show_icons=true&random=&randomss524272)]() |![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NAGARAJ08&langs_count=8&random=&randomss524272&layout=compact&theme=buefy&hide_border=true") |
+|[![Sagar github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sagar-kb&show_icons=true&random=&randomss524272)]() |![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sagar-kb&langs_count=8&random=&randomss524272&layout=compact&theme=buefy&hide_border=true") |
 | ------------- | ------------- |
-<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=NAGARAJ08&theme=flag-india)](https://git.io/streak-stats) -->
+<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=sagar-kb&theme=flag-india)](https://git.io/streak-stats) -->
 <!--
  ### Most used language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-kb&langs_count=8)]() -->
